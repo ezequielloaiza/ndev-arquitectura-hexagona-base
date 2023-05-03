@@ -1,0 +1,8 @@
+{
+    "HELLO": {
+        "HELLO_WORKS": "¡Hola mundo!"
+    },
+    "COMMON": {
+        "WORKS": "{{nameComponent}} funciona!"
+    }
+}
